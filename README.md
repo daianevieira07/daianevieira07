@@ -3,14 +3,22 @@
 <!--
 **daianevieira07/daianevieira07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
+
+
+:computer: Estudante Front-End na Laboratória <L>;
+:mega: Aberta à opornidades como Dev Front-End Jr.;
+:heart_eyes: Apaixonada por desafios;
+          
+Também sou:          
+:books: Professora de Inglês
+pencil: Jornalista e escritora 
+  
+  
+Você pode conhecer um pouco mais sobre mim no meu [LinkedIn](https://www.linkedin.com/in/daianevieiracarola/)
+           
+            
+  
+
