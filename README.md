@@ -1,11 +1,6 @@
-### Hi there 👋
+##Olá! 
 
-<!--
-**daianevieira07/daianevieira07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Olá! 
-
-Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
+##Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
 
 
 :computer: Estudante Front-End na Laboratória <L>;
