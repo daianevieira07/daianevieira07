@@ -6,7 +6,7 @@
 :computer: Estudante Front-End na Laboratória <L>;          
 :mega: Aberta à opornidades como Dev Front-End Jr.;  
 :books: Professora de Inglês;  
-:pencil: Jornalista e escritora;   
+:pencil: Jornalista e [escritora](https://editoramultifoco.com.br/loja/product/brasil-favela-retrato-da-cufa/);     
 :heart_eyes: Apaixonada por desafios;   
 :nerd_face: Eterna aprendiz;   
   
