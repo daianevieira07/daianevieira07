@@ -1,6 +1,6 @@
-##Olá! 
+## Olá! 
 
-##Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
+## Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
 
 
 :computer: Estudante Front-End na Laboratória <L>;
@@ -9,10 +9,10 @@
           
 Também sou:          
 :books: Professora de Inglês
-pencil: Jornalista e escritora 
+:pencil: Jornalista e escritora 
   
   
-Você pode conhecer um pouco mais sobre mim no meu [LinkedIn](https://www.linkedin.com/in/daianevieiracarola/)
+:linkedin: Você pode conhecer um pouco mais sobre mim no meu [LinkedIn](https://www.linkedin.com/in/daianevieiracarola/)
            
             
   
