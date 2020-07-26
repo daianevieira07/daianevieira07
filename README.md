@@ -3,7 +3,7 @@
 ### Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
 
 
-:computer: Estudante Front-End na Laboratória <L>;          
+:computer: Estudante Front-End na [Laboratória](https://www.laboratoria.la/br) <L>;            
 :mega: Aberta à opornidades como Dev Front-End Jr.;  
 :books: Professora de Inglês;  
 :pencil: Jornalista e [escritora](https://editoramultifoco.com.br/loja/product/brasil-favela-retrato-da-cufa/);     
