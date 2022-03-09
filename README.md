@@ -5,7 +5,9 @@
 
 :woman_technologist:	Analista de Gestão de Sistemas na [Bradesco Seguros](https://www.bradescoseguros.com.br/clientes);
 
-           Desenvolvedora Front-End 
+           Experiencia em desenvolvimento Front-End (JavaScript, HTML e CSS).
+           
+           Interessada em carreira Full Stack e DevSecOps 
 
            MBA em Gestão de Pessoas
            
