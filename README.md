@@ -1,6 +1,6 @@
 ### Olá! 
 
-### Sou a Daiane Vieira, fico feliz que você esteja aqui! :tada:
+### Sou a Dai, fico feliz que você esteja aqui! :tada:
 
 
 :woman_technologist:	Analista de Gestão de Sistemas na [Bradesco Seguros](https://www.bradescoseguros.com.br/clientes);
